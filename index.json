@@ -49,6 +49,18 @@
       "colorHex": "#6366F1",
       "revision": 1,
       "zipUrl": "https://raw.githubusercontent.com/halit-ersoy/Anki-Repo/main/bedroom_items.zip"
+    },
+    {
+      "id": "deck_bathroom_items",
+      "title": "Banyo ve Kişisel Bakım — 50 İngilizce Kelime",
+      "description": "Diş bakımı, saç ve tıraş ürünleri, havlular ve banyo eşyaları için 50 görselli kelime ve ifade; Türkçe anlamlar, IPA okunuşları ve çevirileriyle 150 örnek cümle.",
+      "category": "Günlük Yaşam — Banyo ve Kişisel Bakım",
+      "level": "A1-B1",
+      "wordCount": 50,
+      "iconEmoji": "🚿",
+      "colorHex": "#06B6D4",
+      "revision": 1,
+      "zipUrl": "https://raw.githubusercontent.com/halit-ersoy/Anki-Repo/main/bathroom_items.zip"
     }
   ]
 }
