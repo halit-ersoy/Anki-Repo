@@ -12,7 +12,7 @@
       "iconEmoji": "📚",
       "colorHex": "#10B981",
       "revision": 2,
-      "zipUrl": "https://raw.githubusercontent.com/halit-ersoy/Anki-Repo/main/anki-github-paketi/top_100_english.zip"
+      "zipUrl": "https://raw.githubusercontent.com/halit-ersoy/Anki-Repo/main/top_100_english.zip"
     },
     {
       "id": "deck_kitchen_items",
@@ -24,7 +24,7 @@
       "iconEmoji": "🍳",
       "colorHex": "#F59E0B",
       "revision": 3,
-      "zipUrl": "https://raw.githubusercontent.com/halit-ersoy/Anki-Repo/main/anki-github-paketi/kitchen_items.zip"
+      "zipUrl": "https://raw.githubusercontent.com/halit-ersoy/Anki-Repo/main/kitchen_items.zip"
     }
   ]
 }
