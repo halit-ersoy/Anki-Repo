@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-21",
+  "decks": [
+    {
+      "id": "deck_top100_english",
+      "title": "En Sık Kullanılan 100 İngilizce Kelime",
+      "description": "Sıklık sırasıyla 100 temel kelime; Türkçe anlamlar, İngiliz İngilizcesi IPA okunuşları ve her kelime için 3 örnek cümle. The, of, and gibi dilbilgisi kelimeleri dahildir.",
+      "category": "Temel İngilizce",
+      "level": "A1-A2",
+      "wordCount": 100,
+      "iconEmoji": "📚",
+      "colorHex": "#10B981",
+      "revision": 2,
+      "zipUrl": "https://raw.githubusercontent.com/halit-ersoy/Anki-Repo/main/anki-github-paketi/top_100_english.zip"
+    },
+    {
+      "id": "deck_kitchen_items",
+      "title": "Mutfak Eşyaları — 50 İngilizce Kelime",
+      "description": "50 görselli mutfak eşyası kelimesi ve ifadesi; Türkçe anlamlar, IPA okunuşları ve çevirileriyle 150 örnek cümle.",
+      "category": "Günlük Yaşam — Mutfak",
+      "level": "A1-B1",
+      "wordCount": 50,
+      "iconEmoji": "🍳",
+      "colorHex": "#F59E0B",
+      "revision": 3,
+      "zipUrl": "https://raw.githubusercontent.com/halit-ersoy/Anki-Repo/main/anki-github-paketi/kitchen_items.zip"
+    }
+  ]
+}
