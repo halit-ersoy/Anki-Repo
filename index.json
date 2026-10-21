@@ -37,6 +37,18 @@
       "colorHex": "#8B5CF6",
       "revision": 1,
       "zipUrl": "https://raw.githubusercontent.com/halit-ersoy/Anki-Repo/main/living_room_items.zip"
+    },
+    {
+      "id": "deck_bedroom_items",
+      "title": "Yatak Odası — 50 İngilizce Kelime",
+      "description": "Yatak, nevresim, dolap düzeni ve gece kullanılan eşyalar için 50 görselli kelime ve ifade; Türkçe anlamlar, IPA okunuşları ve çevirileriyle 150 örnek cümle.",
+      "category": "Günlük Yaşam — Yatak Odası",
+      "level": "A1-B1",
+      "wordCount": 50,
+      "iconEmoji": "🛏️",
+      "colorHex": "#6366F1",
+      "revision": 1,
+      "zipUrl": "https://raw.githubusercontent.com/halit-ersoy/Anki-Repo/main/bedroom_items.zip"
     }
   ]
 }
